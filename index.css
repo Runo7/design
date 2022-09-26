@@ -1,0 +1,103 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Fredoka+One&family=Merriweather&family=Mochiy+Pop+One&family=Roboto+Slab&family=Tai+Heritage+Pro:wght@400;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+
+body {
+background-color: #2670C5;
+font-size: 1.3rem;
+font-family: 'Acme', sans-serif;
+font-family: 'Fredoka One', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Tai Heritage Pro', serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.logoN {
+  margin-top: 1rem;
+  margin-left: 4rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 1rem;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: #F9F4DB;
+  border-radius: 1rem;
+  height: 5.5rem;
+  left: 1rem;
+  right: 1rem;
+  margin-bottom: 2rem;
+}
+
+.navigation li {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 9rem;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+
+}
+
+.imgMe {
+  margin-top: 18rem;
+  margin-left: 16rem;
+  width: 14rem;
+  height: 14rem;
+}
+
+.selfInt {
+  color: #FDDD26;
+  font-size: 3rem;
+}
+
+.ndDiv {
+  margin-top: 12rem;
+  background-color: white;
+  border-radius: 1rem;
+  height: 17rem;
+}
+
+.h2d {
+  margin-left: 4rem;
+  margin-top: 4rem;
+  padding-top: 4rem;
+}
+
+.pInDiv {
+  margin-left: 4rem;
+}
+
+.refHeader {
+  color: #FDDD26;
+  margin-left: 4rem;
+  margin-top: 4rem;
+}
+
+.pic {
+  height: 60rem;
+  width: 40rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-top: 2rem;
+  border-style: groove;
+}
+
+.picInt {
+  color: #FDDD26;
+}
